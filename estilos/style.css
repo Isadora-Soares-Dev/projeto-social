@@ -24,10 +24,11 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 500px;
-    width: 500px;
-    background-color: blue;
+    height: 548px;
+    width: 267px;
   
-   
+   background-image: url('../Captura\ de\ tela\ 2024-11-06\ 115022.png');
+   background-repeat: no-repeat;
+   background-color: blue;
 
 }
