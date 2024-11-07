@@ -32,5 +32,15 @@ main{
     width: 375px;
     height: 666px;
    background-image: url('../imagens/celular.png');
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
 
+#tela{
+    position: relative;
+    top: 5px;
+    left: 16px;
+    width: 168px;
+    height: 360px;
 }
